@@ -7,7 +7,7 @@ choco install -y cascadiacode
 choco install -y vscode
 
 choco install -y wsl 
-choco install wsl-ubuntu-1804
+choco install -y wsl-ubuntu-1804
 
 choco install -y checksum
 

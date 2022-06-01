@@ -1,41 +1,32 @@
-
-
-
 choco install -y firacode 
 choco install -y cascadiacode
+choco install -y firacodenf
 
 choco install -y vscode
-
-choco install -y wsl 
-choco install -y wsl-ubuntu-1804
-
-choco install -y checksum
-
-choco install -y rufus
 choco install -y irfanview
-
-choco install -y powertoys
-choco install -y 7zip.install
-choco install -y ditto
-choco install -y greenshot
-choco install -y vlc
-choco install -y youtube-dl
 choco install -y lockhunter
-choco install -y teracopy
 choco install -y microsoft-windows-terminal
-choco install -y dbeaver
 choco install -y notepadplusplus
-choco install -y handbrake
-choco install -y ffmpeg
 choco install -y irfanviewplugins
-
-
-
 choco install -y firefox
-choco install -y googlechrome
+choco install -y jabra-direct
+choco install -y sumantrapdf
+choco install -y unifying
+choco install -y yubico-authenticator
+choco install -y winscp
+choco install -y spotify
+choco install -y virtualbox
+#choco install -y signal
+choco install -y everything
+choco install -y vlc
+choco install -y 7zip
+choco install -y anaconda3
 
-
-choco install -y taskbar-winconfig --params "'/LOCATION:top /SIZE:small /LOCKED:yes /COMBINED:no /CORTANA:icon /AUTOTRAY:no /USEPOWERSHELL:no'"
-choco install -y desktopicons-winconfig --params "'/Desktop:YES /UserFiles:YES /ControlPanel:NO /Network:NO /RecycleBin:YES /OneDrive:NO'"
-choco install -y explorer-winconfig --params "'/SHOWEXTENSIONS:yes /SHOWFULLPATH:yes /SHOWENCRYPTED:yes /SHOWCHECKBOXES:no /USESHARINGWIZARD:no /USEVIEW:details'"
-
+choco install -y git
+choco install -y docker-desktop
+choco insatll -y docker-cli
+choco install -y terraform
+choco install -y psqlodbc
+choco install -y aws-vault
+choco install -y awscli
+choco install -y azure-cli
